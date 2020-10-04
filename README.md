@@ -20,7 +20,7 @@ This project consists of training data and test data provided by Kaggle, python 
 * Randome Forest Classifier and Gradient Boost Classifier were used with Tfidf vectorizer for vectorizing the tweets. Both were run after preprocessing tweets. Both were run with different variations of estimators (100 and 1000).
 
 ## Results
-* When the predictions were submitted to Kaggle for each above variations, the score was 0.725 and 0.789 with the highest score acheived when using random forest classifier with 100 estimators i.e. 100 trees in the forest.
+* When the predictions were submitted to Kaggle for each above variations, the public score was in the range of 0.725 and 0.789 with the highest score acheived when using random forest classifier with 100 estimators i.e. 100 trees in the forest.
 
 ## Future work
 * Use RNN and LSTM to classify tweets.
